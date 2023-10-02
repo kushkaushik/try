@@ -7,6 +7,7 @@ app.get('/data' , (req , res) =>{
     res.json({
         msg : "hellow mr kush kaushik"
     })
+    
 })
 
 
