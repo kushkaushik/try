@@ -5,10 +5,10 @@ const app = express();
 
 app.get('/data' , (req , res) =>{
     res.json({
-        msg : "hellow mr kush kaushik"
+        msg : "hellow mr kush kaushik how are you are you fine"
     })
 
-    
+
 
 })
 
